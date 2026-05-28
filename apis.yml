@@ -1,0 +1,32 @@
+aid: open-page-rank
+name: Open Page Rank
+description: "API for calculating and comparing metrics of different websites using Page Rank algorithm"
+url: https://www.domcop.com/openpagerank/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Open Page Rank
+    description: "API for calculating and comparing metrics of different websites using Page Rank algorithm"
+    humanURL: https://www.domcop.com/openpagerank/
+    baseURL: https://www.domcop.com/openpagerank/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://www.domcop.com/openpagerank/
+common:
+  - type: Website
+    url: https://www.domcop.com/openpagerank/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
