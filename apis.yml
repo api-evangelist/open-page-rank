@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://www.domcop.com/openpagerank/
 common:
+  - type: DomainSecurity
+    url: security/open-page-rank-domain-security.yml
   - type: Website
     url: https://www.domcop.com/openpagerank/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.domcop.com/blog/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
