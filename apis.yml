@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.domcop.com/openpagerank/', status: 301, note: 'declared website redirects to https://openpagerank.keywordseverywhere.com/ — a different registrable domain (domcop.com -> keywordseverywhere.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-page-rank.png
 name: Open Page Rank
 description: "API for calculating and comparing metrics of different websites using Page Rank algorithm"
