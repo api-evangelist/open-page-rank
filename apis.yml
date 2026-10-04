@@ -41,7 +41,6 @@ apis:
   - name: Open Page Rank
     description: "API for calculating and comparing metrics of different websites using Page Rank algorithm"
     humanURL: https://www.domcop.com/openpagerank/
-    baseURL: https://www.domcop.com/openpagerank/
     tags:
       - Development
     properties:
